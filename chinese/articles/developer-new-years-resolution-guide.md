@@ -1,30 +1,32 @@
 > * 原文地址：[The Developer New Year's Resolution Guide: How to Make 2020 Your Big Breakout Year](https://www.freecodecamp.org/news/developer-new-years-resolution-guide/)
 > * 原文作者：Quincy Larson
-> * 译者：
+> * 译者：boogiefish
 > * 校对者：
 
 ![The Developer New Year's Resolution Guide: How to Make 2020 Your Big Breakout Year](https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 New Year's Resolutions can be a strong motivational tool. They can help you take your skills to the next level.
-
+新年计划作为一项强力的工具可以帮助你将你的技能提升到更高的层次。
 But they can also backfire, leaving you exhausted and deflated.
-
+但它也会起到让你精疲力竭以至于锐气尽失的反作用。
 In the past, I have used New Year's Resolutions to great effect. But I've also scrubbed out on some resolutions, too.
-
+我曾通过对新年进行规划得到不少收获，但我也会适当的排除掉某些计划。
 In this article, I'll show you how to avoid common New Year's Resolution mistakes.
-
+在本文中，我将告诉你如何规避新年计划中的一些常见问题。
 I'll give you some tips for "right sizing" your commitment.
-
+我会提供一些关于如何选择目标计划“合适尺寸”的小建议。
 We'll talk about:
-
+我将会讨论：
 1.  **The 3 things developers who succeed with their New Year's Resolutions have in common**
 2.  **Tips for choosing the right resolution for you**
 3.  **And I'll even suggest some New Year's Resolutions developers are committing to together.**
-
+1.  **通过对新年进行规划而取得成功的开发者们的三大共同点**
+2.  **为你选择合适目标的提示**
+3.  **我所建议的一些开发者们新年共同努力的目标。**
 In short, this article will give you everything you need to kick off your big, triumphant 2020.
-
+简言之，这篇文章将会为你提供启动伟大胜利的2020年所需的的一切。
 # Do New Year's Resolutions Actually Work for Developers?
-
+#新年计划对开发者来说真的有用么？
 Resolutions are a type of "commitment device." They're a contract with your future self.
 
 Resolutions are a powerful tool for getting results. But they're not magic.
