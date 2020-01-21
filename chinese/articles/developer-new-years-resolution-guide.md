@@ -6,11 +6,17 @@
 ![The Developer New Year's Resolution Guide: How to Make 2020 Your Big Breakout Year](https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 新年计划作为一项强力的工具可以帮助你将你的技能提升到更高的层次。
+
 但它也会起到让你精疲力竭以至于锐气尽失的反作用。
+
 我曾通过对新年进行规划得到不少收获，但我也会适当的排除掉某些计划。
+
 在本文中，我将告诉你如何规避新年计划中的一些常见问题。
+
 我会提供一些关于如何选择目标计划“合适尺寸”的小建议。
+
 我将会讨论：
+
 1.  **通过对新年进行规划而取得成功的开发者们的三大共同点**
 2.  **为你选择合适目标的提示**
 3.  **我所建议的一些开发者们新年共同努力的目标。**
@@ -20,9 +26,9 @@
 ## 新年计划对于开发者来说真的有用么？
 
 Resolutions are a type of "commitment device." They're a contract with your future self.
-
+计划类似于一种“承诺机制”，是你对于未来自我的约束。
 Resolutions are a powerful tool for getting results. But they're not magic.
-
+计划是你达成目标的一个非常实在且强力的工具。
 There are 3 things that go into a successful New Year's Resolution:
 
 -   Relevance
