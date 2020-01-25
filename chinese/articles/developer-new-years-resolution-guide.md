@@ -21,22 +21,19 @@
 2.  **为你选择合适目标的提示**
 3.  **我所建议的一些开发者们新年共同努力的目标。**
 
-简言之，这篇文章将会为你提供启动伟大胜利的2020年所需的的一切。
+简言之，这篇文章将会为你提供启动辉煌成功的2020年所需的的一切。
 
 ## 新年计划对于开发者来说真的有用么？
 
-Resolutions are a type of "commitment device." They're a contract with your future self.
 计划类似于一种“承诺机制”，是你对于未来自我的约束。
-Resolutions are a powerful tool for getting results. But they're not magic.
+
 计划是你达成目标的一个非常实在且强力的工具。
-There are 3 things that go into a successful New Year's Resolution:
+我这儿有三个关于达成新年计划的建议：
 
--   Relevance
--   Accountability
--   Support
-
-Let's take a more detailed look at these three factors, and exercises for each of them that you can use as a "gut check."
-
+-   选择切合实际的计划
+-   对定好的计划负责
+-   为计划寻求支持
+让我们详细的对这三点建议进行延伸，并对这三点进行有针对性地练习直到可以通过全面检查。
 ## Factor #1: Relevance - Do You Really Care?
 
 If your New Year's Resolution is to write your own compiler, you'd better be genuinely interested in compilers.
