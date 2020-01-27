@@ -34,16 +34,16 @@
 -   对定好的计划负责
 -   为计划寻求支持
 让我们对这三点建议进行详细延伸，并对这三点进行有针对性地练习直到可以通过全面检查。
-## Factor #1: Relevance - Do You Really Care?
-##因素#1：相关性-你真的在乎新年计划么？
-If your New Year's Resolution is to write your own compiler, you'd better be genuinely interested in compilers.
+
+## 因素 #1：相关性-你真的在乎你定制的新年计划么？
+
 如果你的新年计划是写一个你自己的编译器，那你最好对编译器抱有兴趣。
-If your New Year's Resolution is to get better with machine learning, you should already be reading academic papers about neural networks for fun.
+
 如果你的新年计划是进一步深入机器学习领域，那你应该早早的基于兴趣阅读有关神经网络的论文。
-Your resolution has to be relevant to you. You have to get something out of it.
+
 你的计划必须同你密切相关对你有一定意义，并且你需要从中得到或学到某些东西。
-If you're not already passionate, you probably won't be able to manufacture enough passion to persist through the crush of distractions. You will struggle to actually sit down to put in the work.
-如果你还没抱有热情，那你心中可能就没有那么多热爱来保持专注。你会
+
+如果你心中还没抱有热情，那你可能就没法产生那么多激情来保持专注，你将很难真正坐下来投入工作。
 ### Time for an Exercise.
 
 Close your eyes. (After you finish reading the rest of this exercise, of course. 😉)
