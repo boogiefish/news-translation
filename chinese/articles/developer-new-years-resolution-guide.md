@@ -33,6 +33,7 @@
 -   选择切合实际的计划
 -   对定好的计划负责
 -   为计划寻求支持
+
 让我们对这三点建议进行详细延伸，并对这三点进行有针对性地练习直到可以通过全面检查。
 
 ## 因素 #1：相关性-你真的在乎你定制的新年计划么？
@@ -43,23 +44,23 @@
 
 你的计划必须同你密切相关对你有一定意义，并且你需要从中得到或学到某些东西。
 
-如果你心中还没抱有热情，那你可能就没法产生那么多激情来保持专注，你将很难真正坐下来投入工作。
-### Time for an Exercise.
+如果你心中对此并没抱有热情，那你就没法产生那么多激情来保持专注来让你真正坐下来投入工作。
 
-Close your eyes. (After you finish reading the rest of this exercise, of course. 😉)
+### 练习时间
 
-Imagine yourself a few months from now. You've accomplished your resolution.
+现在，请闭上你的眼睛。（当然是在你阅读完本练习的剩余部分再闭眼。😉）
 
-What's different? How do you feel about yourself?
+想象一下几个月后的自己，那时你已经完成了你的计划。
 
-OK - now try it. Close your eyes and do this.
+有什么不同么？你感觉自己如何了呢？
 
-All right. I'm going to assume you did this.
+好的——让我们来尝试一下。闭上你的眼睛然后执行以上步骤。
 
-Now - if you didn't feel your cheeks tug upward into a smile during this exercise, I hate to break it to you. This probably isn't a resolution you're sufficiently excited about.
+很好。我现在假设你已经做完以上步骤了。
 
-You should keep brainstorming until you find a resolution that does put a smile on your face.
+那么现在——如果通过此次练习你没感觉到你的脸颊向上拉成微笑 ，尽管我不想打断你，但这个计划目标可能并不是最能引起你兴趣的那一个。
 
+你需要不停的集思广益直到你找到那个能让你脸上露出笑容的那个决定。
 Remember to tune out the hype surrounding different tools and projects. Resolutions are personal. Don't let anyone tell you how to dream.
 
 ## Factor #2: Accountability - Do You Really Believe You Can Do This?
