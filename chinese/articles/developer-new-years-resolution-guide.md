@@ -50,7 +50,7 @@
 
 现在，请闭上你的眼睛。（当然是在你阅读完本练习的剩余部分再闭眼。😉）
 
-想象一下几个月已经完成计划的自己。
+想象一下几个月后已经完成计划的自己。
 
 有什么不同么？你感觉自己如何了呢？
 
@@ -58,22 +58,23 @@
 
 很好。我现在假设你已经做完以上步骤了。
 
-那么现在——如果通过此次练习你没感觉到你的脸颊向上拉成微笑 ，尽管我不想打断你，但这个计划目标可能并不是最能引起你兴趣的那一个。
+那么现在——如果通过此次练习你没感觉到你的脸颊上露出微笑 ，尽管我不想否定你，但这个目标可能并不是让你最兴奋的那个。
 
 你需要不停的集思广益直到你找到那个能让你脸上露出笑容的那个决定。
-Remember to tune out the hype surrounding different tools and projects. Resolutions are personal. Don't let anyone tell you how to dream.
 
-## Factor #2: Accountability - Do You Really Believe You Can Do This?
+切记不要理会那些人对于不同工具或项目的夸张宣传，建立目标是个人的事。别让任何人来指点你的梦想是什么
 
-When you make your resolution public - either by telling your family about it or by proclaiming it on Twitter or LinkedIn - you are putting yourself on the hook. You are telling the world you're going to see this resolution through.
+## 因素 #2：责任感-你真的相信自己可以做到么？
 
-It's OK to back out of public commitments once in a while. I've done it. Most developers have. Failure is not fatal.
+一旦你将你的新年计划公开-通过告诉你的家人或是通过社交网络宣布这件事儿-你成功将自己推进了坑。你正在告诉全世界你要达成这项计划。
 
-But you need to be careful not to develop a reputation for being a "flake." You need to deliver on your commitments most of the time. Otherwise people may just start shrugging off your grand proclamations.
+再公众面前作出承诺后偶尔反悔一次两次很正常。我也这样，大多数开发者也这样，失败并不致命。
 
-Remember that New Year's Resolutions are completely optional. You don't have to put yourself out there if you don't want to.
+但你需要小心点儿，别让你说出来的目标轻如鸿毛。你得用大半的时间来兑现你承诺的目标。不然人们该对你的伟大宣言不屑一顾了。
 
-But again, there is risk and there is reward. If you can harness the power of a public commitment device, a New Year's Resolution can propel you to the next level.
+记住，新年的目标完全由你自由规划。你完全不需要把你自己陷在一个你完全不想去做的目标上。
+
+当然，公开计划的风险和收益并存。如果你能成功利用公众监督的力量，那么新年目标可以帮助你更上一层楼。
 
 ### Time for another exercise.
 
