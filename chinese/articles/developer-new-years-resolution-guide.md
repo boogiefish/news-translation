@@ -76,17 +76,19 @@
 
 当然，公开计划的风险和收益并存。如果你能成功利用公众监督的力量，那么新年计划可以帮助你更上一层楼。
 
-### Time for another exercise.
+### 练习时间
 
-Think about the commitments you've made in the past.
+回忆一下你在过去许下的诺言。
 
-Do you already have outstanding commitments that you haven't delivered on yet?
+你是否有尚未兑现的承诺呢？
 
-Are those commitments still worth pursuing?
+你的这些承诺还有执行的价值么？
 
-If so, you may want to go ahead and tackle those first before adding even more onto your plate with a New Year's Resolution.
+如果有的话，那你可能需要先解决掉那些未履行的承诺，再通过新年计划将更多的目标加入你的规划中。
 
 Now think about your resolution. Is it a long shot? Or is it something you can already visualize yourself doing?
+
+
 
 Remember that developers are notoriously bad at time estimation.
 
