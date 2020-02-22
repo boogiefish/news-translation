@@ -66,7 +66,7 @@
 
 ## 因素 #2：责任感-你真的相信自己可以做到么？
 
-一旦你将你的新年计划公开——通过告诉你的家人或是通过社交网络宣布这件事儿——你成功将自己推进了坑。你正在告诉全世界你要达成这项计划。
+一旦你将你的新年计划公开-通过告诉你的家人或是通过社交网络宣布这件事儿-你成功将自己推进了坑。你正在告诉全世界你要达成这项计划。
 
 在公众面前作出承诺后偶尔反悔一次两次很正常。我也这样，大多数开发者也这样，失败并不致命。
 
@@ -86,25 +86,24 @@
 
 如果有的话，那你可能需要先解决掉那些未履行的承诺，再通过新年计划将更多的目标加入你的规划中。
 
-Now think about your resolution. Is it a long shot? Or is it something you can already visualize yourself doing?
+现在请回顾一下你的新年规划：实现它的可能性大么？又或是你已经想象到你该做什么了么？
 
+记住，开发人员在时间预测上是众所周知的差劲。
 
+设立一个恰当的目标总比自己折磨自己投入于死亡难度的目标强。
 
-Remember that developers are notoriously bad at time estimation.
+## 因素 #3：帮助与支持-
 
-It's better to set a modest goal than trap yourself in a self-imposed death march.
+同社会的交际是最后的一个要素。你有志同道合的与你以同一目标努力的朋友么？
 
-## Factor #3: Support - Can You Leverage Positive Peer Pressure?
+你要有那可真是太棒了。你们可以相互激励，相互帮助着前进。
 
-The final factor is social. Do you have friends who can embark upon the resolution alongside you?
+抑或是你最起码有朋友了解你要去达成的目标可以为你加油呢？
 
-Awesome. This is the way to go. You can help keep one another motivated.
-
-Or do you at least have friends who understand what you're trying to accomplish so they can cheer you on?
-
-This is important. Because if your goal is to - say - create an entire website using only C++, or to reach 1 kyu on Code Wars in less than a year - people may not understand that goal or why it's challenging.
+朋友的帮助很重要。举例说你的目标是用C++搭建一个网站，或是用不到一年的时间在Code Wars上等级达到1段，人们可能并不了解这个目标或是它所具有的挑战性。
 
 Don't make it any harder for people to care about whether you succeed.
+
 
 This positive peer pressure can be critical. When you are extremely busy with work, or you're sick, or you've had a major life change - how are you going to stay motivated?
 
